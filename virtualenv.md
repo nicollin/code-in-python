@@ -32,5 +32,9 @@ virtualenv demo-venv
 deactivate
 ```
 
+5. 删除虚拟环境
+
+删除虚拟环境所在的文件夹即可
+
 -- --
 参考：[要不我们还是用回 virtualenv/venv 和 pip 吧 - 李辉](https://zhuanlan.zhihu.com/p/81568689)
